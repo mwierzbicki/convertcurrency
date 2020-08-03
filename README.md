@@ -1,0 +1,1 @@
+Library for currency convertion with ECB currency exchange rates.
