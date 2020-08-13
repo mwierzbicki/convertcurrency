@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	cc "github.com/mwierzbicki/convertcurrency"
+	cc "github.com/mwierzbicki/convertcurrency/convectcurrency"
 )
 
 func main() {
